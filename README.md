@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there! I'm Gabriel Reverso Pereira 👋
 
-<!--
-**GabrielReverso/GabrielReverso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student at UNAERP in Brazil. Passionate about technology and coding, I am constantly seeking to enhance my skills and contribute to the community. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Languages:** C/C++, Go, JavaScript
+- **Frameworks/Libraries:** React-Native
+
+## Notable Projects
+
+- **[CODAP](https://codap.gabrielsimoesdeveloper.com.br):** A React-Native application designed to teach web development. This project aims to provide interactive learning experiences for beginners looking to get into web development.
+
+## Goals
+
+- Enhance my programming skills and experience.
+- Contribute to and support the developer community through my projects and collaborations.
+
+## Connect with Me
+
+Feel free to connect with me on [LinkedIn](in/gabriel-reverso-pereira-853277292).
+
+Looking forward to collaborating and sharing ideas!
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_title=true&hide=prs&hide_border=true&theme=radical)
