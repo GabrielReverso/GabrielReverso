@@ -20,7 +20,7 @@ I'm a Computer Engineering student at UNAERP in Brazil. Passionate about technol
 
 ## Connect with Me
 
-Feel free to connect with me on [LinkedIn](in/gabriel-reverso-pereira-853277292).
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/gabriel-reverso-pereira-853277292).
 
 Looking forward to collaborating and sharing ideas!
 
