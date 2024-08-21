@@ -26,4 +26,4 @@ Looking forward to collaborating and sharing ideas!
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_title=true&hide=prs&hide_border=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielReverso&show_icons=true&count_private=true&hide_title=true&hide=prs&hide_border=true&theme=radical)
