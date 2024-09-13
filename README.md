@@ -27,4 +27,4 @@ Looking forward to collaborating and sharing ideas!
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielReverso&show_icons=true&count_private=true&hide_title=true&hide=prs&hide_border=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRevers)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielReverso&layout=compact)
