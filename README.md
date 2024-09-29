@@ -6,7 +6,7 @@ I'm a Computer Engineering student at UNAERP in Brazil. Passionate about technol
 
 ## Skills
 
-- **Languages:** C/C++, Go, JavaScript
+- **Languages:** C/C++, Go, JavaScript, Java
 - **Frameworks/Libraries:** React-Native, ReactJS
 
 ## Notable Projects
