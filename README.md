@@ -29,6 +29,7 @@ I'm a Computer Engineering student at UNAERP in Brazil. Passionate about technol
 
 - *[CODAP](https://codap.gabrielsimoesdeveloper.com.br):* A React-Native application designed to teach web development. This project aims to provide interactive learning experiences for beginners looking to get into web development.
 - *[POWERBEAST](https://powerbeast.com.br):* A GO application for monitoring and managing notebook batteries.
+- *[ENCICLOPET](https://www.youtube.com/watch?v=dbHEjlDOqZY):* A React-Native cat and dog breed guide app.
 
 ## Goals
 
