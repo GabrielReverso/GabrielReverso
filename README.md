@@ -2,7 +2,9 @@
 
 ## About Me
 
-I'm a Computer Engineering student at UNAERP in Brazil. Passionate about technology and coding, I am constantly seeking to enhance my skills and contribute to the community. 
+I'm a Computer Engineering student at UNAERP in Brazil. Passionate about technology and coding, I am constantly seeking to enhance my skills and contribute to the community.
+
+My portfolio: [https://gabrielreverso.github.io/portfolio](https://gabrielreverso.github.io/portfolio/)
 
 ## Skills
 
