@@ -9,7 +9,7 @@ My portfolio: [https://gabrielreverso.github.io/portfolio](https://gabrielrevers
 ## Skills
 
 - **Languages:** C/C++, Go, JavaScript, TypeScript, Java, Python
-- **Frameworks/Libraries:** React-Native, ReactJS
+- **Frameworks/Libraries:** React-Native, ReactJS, Next.js
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
