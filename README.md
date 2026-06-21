@@ -1,23 +1,23 @@
-<h1 align="center">Olá, eu sou o Gabriel Reverso Pereira 👋</h1>
+<h1 align="center">Hi there, I'm Gabriel Reverso Pereira 👋</h1>
 <h3 align="center">Full Stack & Mobile Developer | React • Next.js • React Native • TypeScript</h3>
 
 <p align="center">
-  <a href="https://gabrielreverso.github.io/portfolio/" target="_blank">🌐 Portfólio</a> •
+  <a href="https://gabrielreverso.github.io/portfolio/" target="_blank">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/gabriel-reverso-pereira" target="_blank">💼 LinkedIn</a> •
-  <a href="mailto:reversogabrielpereira@gmail.com">✉️ Contato</a>
+  <a href="mailto:reversogabrielpereira@gmail.com">✉️ Contact</a>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-Sou estudante de Engenharia da Computação na UNAERP e desenvolvedor **Full Stack e Mobile**, com foco no ecossistema **React** — construindo desde interfaces web modernas com **React** e **Next.js**, até aplicativos mobile com **React Native** e desktop com **Electron**, sempre escrevendo em **TypeScript** para garantir código seguro e escalável.
+I'm a Computer Engineering student at UNAERP and a **Full Stack & Mobile Developer**, focused on the **React** ecosystem — building everything from modern web interfaces with **React** and **Next.js**, to mobile apps with **React Native** and desktop applications with **Electron**, always writing in **TypeScript** to keep code safe and scalable.
 
-Gosto de transformar ideias em produtos reais: do front-end ao back-end, da web ao mobile, passando por aplicações desktop multiplataforma. Busco constantemente aprender, construir projetos com impacto real e contribuir com a comunidade dev.
+I love turning ideas into real products: from front-end to back-end, from web to mobile, all the way to cross-platform desktop apps. I'm constantly learning, building projects with real-world impact, and contributing to the dev community.
 
 ---
 
-## 🛠️ Stack principal
+## 🛠️ Main Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo" />
@@ -47,36 +47,36 @@ Gosto de transformar ideias em produtos reais: do front-end ao back-end, da web 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" />
 </div>
 
-**Foco principal:** `React` `Next.js` `React Native` `TypeScript` — da web ao mobile, com apps desktop em `Electron + Go` quando o projeto pede performance e integração com o sistema.
+**Main focus:** `React` `Next.js` `React Native` `TypeScript` — from web to mobile, plus desktop apps in `Electron + Go` when a project calls for performance and deep system integration.
 
 ---
 
-## 💡 Projetos em destaque
+## 💡 Featured Projects
 
 ### ⚡ [PowerBeast](https://powerbeast.com.br)
-Aplicação desktop multiplataforma para **monitoramento e gerenciamento de bateria de notebooks**, reconstruída do zero com uma arquitetura moderna:
-- 🎨 **React** no front-end, para uma interface rica e responsiva
-- 🖥️ **Electron** empacotando a aplicação como software desktop nativo
-- ⚙️ **Go** como backend de alta performance, lidando com leitura de hardware e lógica de sistema
-> Projeto que une o melhor dos dois mundos: a produtividade do React no front com a performance e baixo nível do Go por trás.
+A cross-platform desktop application for **monitoring and managing notebook battery health**, rebuilt from the ground up with a modern architecture:
+- 🎨 **React** on the front-end, for a rich and responsive interface
+- 🖥️ **Electron** packaging the app as native desktop software
+- ⚙️ **Go** as a high-performance backend, handling hardware reads and system-level logic
+> A project that combines the best of both worlds: the productivity of React on the front-end with the performance and low-level power of Go underneath.
 
 ### 📚 [CODAP](https://codap.gabrielsimoesdeveloper.com.br)
-Aplicativo em **React Native** voltado ao ensino de desenvolvimento web, oferecendo uma experiência de aprendizado interativa para iniciantes que querem entrar na área.
+A **React Native** app designed to teach web development, offering an interactive learning experience for beginners getting started in the field.
 
 ### 🐾 [Enciclopet](https://www.youtube.com/watch?v=dbHEjlDOqZY)
-Guia de raças de cães e gatos construído em **React Native**, com foco em UX simples e informações ricas para tutores de pets.
+A dog and cat breed guide built with **React Native**, focused on simple UX and rich information for pet owners.
 
 ---
 
-## 🎯 Objetivos
+## 🎯 Goals
 
-- Aprofundar conhecimentos em arquiteturas full stack e mobile escaláveis
-- Evoluir projetos como o PowerBeast com impacto real para usuários finais
-- Contribuir com a comunidade dev através de projetos open source e colaborações
+- Deepen my knowledge of scalable full stack and mobile architectures
+- Keep evolving projects like PowerBeast with real impact for end users
+- Contribute to the dev community through open source projects and collaboration
 
 ---
 
-## 📫 Vamos conversar
+## 📫 Let's Connect
 
 <div align="left">
   <a href="mailto:reversogabrielpereira@gmail.com" target="_blank">
